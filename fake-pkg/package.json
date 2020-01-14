@@ -1,0 +1,14 @@
+{
+  "name": "fake-pkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node ./index.js"
+  },
+  "dependencies": {
+    "ci-info": "^2.0.0",
+    "is-docker": "^2.0.0",
+    "is-wsl": "^2.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fake-pkg": "file:fake-pkg"
+  },
+  "scripts": {},
+  "name": "telem-stuff",
+  "version": "0.1.0",
+  "private": true
+}
